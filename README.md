@@ -1,2 +1,2 @@
-bitasset-whitepaper
+BitShares Market Pegged Assets
 ===================
