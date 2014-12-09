@@ -4,4 +4,5 @@
    * [Price Stability](price_stability.md)
    * [Order Matching](order_matching.md)
    * [Risk](risk.md)
+       * Value Risk
 
