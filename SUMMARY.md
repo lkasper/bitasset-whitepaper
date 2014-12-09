@@ -7,5 +7,5 @@
        * [Value Risk](value_risk.md)
        * [Counterparty risk](counterparty_risk.md)
        * [Systemic risk](systemic_risk.md)
-   * Outlook
+   * [Outlook](outlook.md)
 
