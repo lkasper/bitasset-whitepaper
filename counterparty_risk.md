@@ -1,2 +1,3 @@
 # Counterparty risk
 
+Unlike many attempts to create a digital asset that tracks the dollar, market pegged asset are not an "I owe you" issued by any entity.  For this reason, it does not rely on a specific counterparty to honor its value.  Although manipulation risk occurs in any market, it is minimized by the open source and auditable nature of the BitShares system and carefully considered market rules.  Some counterparty risk exists when buying market pegged assets on an external exchange. The exchange must be trusted with customer funds for the time period they are deposited.  It is not recommended that digital assets are stored on an exchange long term.
