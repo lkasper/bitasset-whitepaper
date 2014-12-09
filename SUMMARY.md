@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-   * Price Stability
+   * [Price Stability](price_stability.md)
 
